@@ -8,7 +8,8 @@ Una divertida simulación tipo Tinder con personajes del universo **Star Wars**,
 
 - ⚛️ React
 - ⚡ Vite
-- 🧹 CSS Modules / Tailwind (ajusta según tu caso)
+- 🧹 CSS Modules
+- 🖥️ JavaScript
 
 ---
 
@@ -18,3 +19,16 @@ Una divertida simulación tipo Tinder con personajes del universo **Star Wars**,
 
    ```bash
    git clone https://github.com/TonyVargas777/Tinder_SW.git
+   ```
+2. Accede al directorio:
+   ```bash
+   cd Tinder_SW
+   ```
+3. Instala dependencias:
+    ```bash
+   npm install
+   ```
+4. Ejecuta el programa:
+     ```bash
+   npm run dev
+   ```
